@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Orange, California"
   date_start = "Fall 2016"
   date_end = "Fall 2018"
-  description = ""
+  # description = ""
   # Responsibilities include:
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Costa Mesa, California"
   date_start = "Fall 2016"
   date_end = "Spring 2018"
-  description = ""
+  # description = ""
   # Responsibilities include:
   
 
