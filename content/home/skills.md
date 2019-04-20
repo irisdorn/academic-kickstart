@@ -39,12 +39,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
  
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fab"
-  name = "Statistics"
-  
   [[feature]]
   icon = "r-project"
   icon_pack = "fab"
