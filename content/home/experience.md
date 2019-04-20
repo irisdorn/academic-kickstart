@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Chapman University"
   company_url = ""
   location = "Orange, California"
-  date_start = "2016"
-  date_end = "2018"
+  date_start = "2016-09-01"
+  date_end = "2018-12-21"
   # description = ""
   # Responsibilities include:
 
@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company = "Orange Coast College"
   company_url = ""
   location = "Costa Mesa, California"
-  date_start = "2016"
-  date_end = "2018"
+  date_start = "2016-09-01"
+  date_end = "2018-06-01"
   # description = ""
   # Responsibilities include:
   
