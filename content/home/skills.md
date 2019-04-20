@@ -17,7 +17,17 @@ subtitle = ""
  [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Matlab Mathematica Comsol"
+  name = "Comsol Multiphysics"
+  
+  [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Matlab"
+  
+ [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Mathematica"
 
 [[feature]]
   icon = "database"
@@ -25,14 +35,14 @@ subtitle = ""
   name = "Data Mining"
 
  [[feature]]
-  icon = "python"
+  icon = "fab fa-python"
   icon_pack = "fas"
   name = "Python"
  
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Statistics"
   
   [[feature]]
