@@ -35,8 +35,8 @@ subtitle = ""
   name = "Data Mining"
 
  [[feature]]
-  icon = "fab fa-python"
-  icon_pack = "fas"
+  icon = "python"
+  icon_pack = "fab"
   name = "Python"
  
   
