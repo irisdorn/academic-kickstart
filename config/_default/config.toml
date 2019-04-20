@@ -16,7 +16,7 @@ baseurl = "https://irisdorn.com/"
 copyright = "&copy {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-138658196-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
