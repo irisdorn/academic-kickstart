@@ -36,7 +36,7 @@ user_groups = []
 [[education.courses]]
   course = "PhD in Computational and Data Science"
   institution = "Chapman University"
-  year = Expected 2020
+  year = 2020
 
 [[education.courses]]
   course = "MS in Physics"
