@@ -25,12 +25,7 @@ date_format = "Jan 2006"
   date_start = "Fall 2016"
   date_end = "Fall 2018"
   description = ""
-  #Responsibilities include:
-  
-  #* 
- #* Modelling
-  #* Deploying
-  """
+  # Responsibilities include:
 
 [[experience]]
   title = "Physics Lecturer"
@@ -40,7 +35,7 @@ date_format = "Jan 2006"
   date_start = "Fall 2016"
   date_end = "Spring 2018"
   description = ""
-  #Responsibilities include:
+  # Responsibilities include:
   
 
 +++
