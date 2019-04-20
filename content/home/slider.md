@@ -40,7 +40,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Get Materials"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "irisdorn.com/physicsmaterials.html"
   cta_icon_pack = "fas"
   cta_icon = "book"
 
