@@ -25,32 +25,40 @@ height = "300px"
   overlay_img = "coolplot.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  [[item]]
-  title = "Learn Physics"
-  content = "Lectures & Exams with Solutions"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  # [[item]]
+  # title = "Learn Physics"
+  # content = "Materials to Be Posted Soon"
+  # align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "lisart.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_color = "#666"  # An HTML color value.
+  # overlay_img = "lisart.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Materials"
-  cta_url = "irisdorn.com/physicsmaterials.html"
-  cta_icon_pack = "fas"
-  cta_icon = "book"
+  # cta_label = "Get Materials"
+  # cta_url = "irisdorn.com/physicsmaterials.html"
+  # cta_icon_pack = "fas"
+  # cta_icon = "book"
 
 [[item]]
   title = "Data Mining"
-  content = "Python Notebooks with Examples"
+  content = "Python Notebooks"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "data.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "View Kernels"
+  cta_url = "kaggle.com/irisdorn/kernels"
+  cta_icon_pack = "fas"
+  cta_icon = "book"
 
 +++
