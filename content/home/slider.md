@@ -57,7 +57,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "View Kernels"
-  cta_url = "kaggle.com/irisdorn/kernels"
+  cta_url = "http://www.kaggle.com/irisdorn/kernels"
   cta_icon_pack = "fas"
   cta_icon = "book"
 
