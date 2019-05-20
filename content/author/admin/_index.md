@@ -61,17 +61,9 @@ user_groups = []
 #[[social]]
  # icon = "twitter"
   #icon_pack = "fab"
-  #link = "https://twitter.com/GeorgeCushen"
+  #link = "https://twitter.com/dorn_iris"
 
-#[[social]]
- # icon = "google-scholar"
- # icon_pack = "ai"
- # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-#[[social]]
-  #icon = "github"
- # icon_pack = "fab"
-  #link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,4 +74,4 @@ user_groups = []
 
 +++
 
-Iris Dorn is currently a PhD student of Computational and Data Science at Chapman University. Her research focus is on modeling a 1D Josephson junction via the set of Ginzburg-Landau equations utilizing Comsol and Matlab. Her previous work experience has been in teaching university level physics from conceptual to calculus based. 
+Iris Dorn is currently a PhD student of Computational and Data Science at Chapman University. Her research focus is on modeling a 1D Josephson junction via the set of Ginzburg-Landau equations utilizing Comsol and automating of model using Matlab. Her previous work experience has been in teaching university level physics from conceptual to calculus based. 
