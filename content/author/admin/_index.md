@@ -58,8 +58,8 @@ user_groups = []
   icon_pack = "fas"
   link = "#contact" 
 
-#[[social]]
- # icon = "twitter"
+[[social]]
+  icon = "twitter"
   #icon_pack = "fab"
   #link = "https://twitter.com/dorn_iris"
 
