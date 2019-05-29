@@ -29,7 +29,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "View GitHub"
-  cta_url = "https://github.com/irisdorn/automatedcomsol"
+  cta_url = "https://irisdorn.github.io/automatedcomsol/"
   cta_icon_pack = "fas"
   cta_icon = "book"
   
