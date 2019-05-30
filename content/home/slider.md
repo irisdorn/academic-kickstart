@@ -18,7 +18,7 @@ height = "300px"
 
 [[item]]
   title = "Current Research"
-  content = "Comsol Multiphysics Modeling of 1D Josephnson Junction"
+  content = "Comsol Multiphysics Modeling of 1D Superconducting Wire"
   align = "right"
   
   overlay_color = "#333"  # An HTML color value.
