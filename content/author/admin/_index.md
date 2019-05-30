@@ -74,4 +74,4 @@ user_groups = []
 
 +++
 
-Iris Dorn is currently a PhD student of Computational and Data Science at Chapman University. Her research focus is on modeling a 1D Josephson junction via the set of Ginzburg-Landau equations utilizing Comsol and automating of model using Matlab. Her previous work experience has been in teaching university level physics from conceptual to calculus based. 
+Iris Dorn is currently a PhD student of Computational and Data Science at Chapman University. Her research focus is on modeling a 1D Superconducting wire via the set of Ginzburg-Landau equations utilizing Comsol and automating of model using Matlab. Her previous work experience has been in teaching university level physics from conceptual to calculus based. 
